@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_util_meta_tags",
+  "info": {
+    "displayName": "Meta Tag",
+    "icon": "anchor"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "keyword": {
+      "type": "string"
+    }
+  }
+}
