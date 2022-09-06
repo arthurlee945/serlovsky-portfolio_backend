@@ -4,7 +4,8 @@
   "info": {
     "singularName": "index",
     "pluralName": "indices",
-    "displayName": "Index"
+    "displayName": "Index",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -13,7 +14,7 @@
   "attributes": {
     "Meta": {
       "type": "component",
-      "repeatable": true,
+      "repeatable": false,
       "component": "util.meta-tag"
     }
   }
